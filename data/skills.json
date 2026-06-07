@@ -1,0 +1,75 @@
+{
+  "categories": [
+    {
+      "name": "Programming Languages",
+      "icon": "fas fa-code",
+      "skills": [
+        "Python",
+        "Scala",
+        "Java",
+        "C++",
+        "JavaScript",
+        "Swift"
+      ]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "icon": "fas fa-toolbox",
+      "skills": [
+        "Node.js",
+        "Spring Boot"
+      ]
+    },
+    {
+      "name": "Databases",
+      "icon": "fas fa-database",
+      "skills": [
+        "Elasticsearch",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "DevOps & CI/CD",
+      "icon": "fas fa-cogs",
+      "skills": [
+        "Kubernetes",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "icon": "fas fa-laptop-code",
+      "skills": [
+        "Objective-C",
+        "Pytorch",
+        "Tensorflow",
+        "LangGraph",
+        "LangChain",
+        "Express.js",
+        "REST APIs",
+        "GraphQL",
+        "Apache Spark",
+        "Apache Iceberg",
+        "Batch Pipelines",
+        "Redis Streams",
+        "Kafka",
+        "RAG Pipelines",
+        "MCP",
+        "A2A",
+        "Embeddings",
+        "Vector Databases",
+        "Retrieval",
+        "Tool Calling",
+        "Guardrails",
+        "AWS (EC2, EKS, ECS, S3, RDS, VPC, IAM)",
+        "Buildkite",
+        "GitHub Actions",
+        "Datadog",
+        "CloudWatch",
+        "Terraform (IaC)"
+      ]
+    }
+  ]
+}

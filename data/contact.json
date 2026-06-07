@@ -1,0 +1,31 @@
+{
+  "email": "satapathypro@gmail.com",
+  "phone": "+1 (669) 336-1638",
+  "socials": [
+    {
+      "name": "Email",
+      "username": "satapathypro@gmail.com",
+      "url": "mailto:satapathypro@gmail.com",
+      "icon": "email"
+    },
+    {
+      "name": "Phone",
+      "username": "+1 (669) 336-1638",
+      "url": "tel:+16693361638",
+      "icon": "phone"
+    },
+    {
+      "name": "LinkedIn",
+      "username": "https://www.linkedin.com/in/subhamumd/",
+      "url": "https://www.linkedin.com/in/subhamumd/",
+      "icon": "linkedin"
+    },
+    {
+      "name": "GitHub",
+      "username": "@satapathyPro",
+      "url": "https://github.com/satapathyPro",
+      "icon": "github"
+    }
+  ],
+  "repoUrl": "https://github.com/satapathyPro"
+}

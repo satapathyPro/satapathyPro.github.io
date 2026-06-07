@@ -1,0 +1,12 @@
+{
+  "bio": [
+    "Hello! I'm Subham Satapathy, a Software Engineer based in San Francisco, CA.",
+    "Software Engineer with over 3 years of experience building cloud-scale distributed systems, Spark/Scala pipelines, and production observability. Delivered 4× runtime reduction on billion-scale workloads and built end-to-end monitoring (Datadog + Terraform). Built agentic AI automation (LLM-orchestrated workflows) using instrumentation, guardrails, and iteration. Strong fundamentals in architecture, testing, CI/CD, debugging, and live-site triage."
+  ],
+  "highlights": [
+    "Proficient in Python, Scala, Java",
+    "Experienced with Pytorch, Tensorflow, LangGraph",
+    "Skilled in Apache Spark, Apache Iceberg, Batch Pipelines"
+  ],
+  "interests": []
+}
