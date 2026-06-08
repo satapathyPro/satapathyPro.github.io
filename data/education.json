@@ -5,8 +5,8 @@
     "school": "University of Maryland",
     "date": "",
     "description": "Software Engineering. GPA: 3.97/4",
-    "icon": "/default-school.png",
-    "iconBg": "#264653"
+    "icon": "/logo-umd.svg",
+    "iconBg": "#E21833"
   },
   {
     "id": 2,
@@ -14,7 +14,7 @@
     "school": "RV College of Engineering",
     "date": "",
     "description": "Electronics and Communication Engineering. GPA: 3.89/4",
-    "icon": "/default-school.png",
-    "iconBg": "#27AE60"
+    "icon": "/logo-rvce.png",
+    "iconBg": "#ffffff"
   }
 ]

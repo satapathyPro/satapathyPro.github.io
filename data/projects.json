@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "AWS-Driven Container Orchestration and CI/CD Implementation",
-    "image": "/default-project.png",
+    "image": "/project-aws-k8s.png",
     "description": "Designed and deployed a fully containerized application on AWS Elastic Kubernetes Service (EKS), implementing Ingress, Load Balancing, and Horizontal Pod Autoscaler (HPA) for dynamic scalability and optimal traffic management.\nAutomated CI/CD pipelines using GitHub Actions, streamlining code integration, testing, and deployment with Docker images pushed to Amazon Elastic Container Registry (ECR) and deployed to Kubernetes clusters.\nImplemented comprehensive monitoring and logging with Amazon CloudWatch, enhancing system performance insights and security through environment variable management, encryption, and secure API routing.",
     "tags": [
       "AWS",
@@ -21,7 +21,7 @@
   {
     "id": 2,
     "name": "E-Learning Management System",
-    "image": "/default-project.png",
+    "image": "/project-elearning.png",
     "description": "Developed and deployed a scalable backend using SpringBoot and Java, with secure JWT-based authentication, MySQL database management, and implemented security best practices including HTTPS, data encryption, and input validation.\nBuilt dynamic, responsive UI components with JavaScript, integrated them with backend services via REST APIs, and deployed the application on Heroku and AWS EC2, leveraging cloud resources for scalability, security, and performance.",
     "tags": [
       "SpringBoot",
@@ -38,7 +38,7 @@
   {
     "id": 3,
     "name": "Improving Hate Speech Detection using Large Language Models",
-    "image": "/default-project.png",
+    "image": "/project-hate-speech.png",
     "description": "Drove 25x size reduction and 30x faster prediction for hate speech detection by employing optimization strategies including knowledge distillation, pre-training, and fine-tuning of LLMs without compromising accuracy.\nBalanced performance, efficiency, and generalization of hate speech models by leveraging strategies like MLM, distillation and multi-task learning across diverse datasets achieving similar accuracy to state-of-the-art models.",
     "tags": [
       "Pytorch",
@@ -51,7 +51,7 @@
   {
     "id": 4,
     "name": "Speech Emotion Recognition",
-    "image": "/default-project.png",
+    "image": "/project-speech-emotion.png",
     "description": "Extracted Mel-Frequency Cepstral Coefficients (MFCC) features from speech data using Librosa to represent emotional tone and pitch variations effectively.\nDesigned and trained a multi-layer perceptron (MLP) model using PyTorch, achieving 88% accuracy in classifying eight distinct emotions across the TESS and RAVDESS datasets.",
     "tags": [
       "Pytorch",
@@ -65,7 +65,7 @@
   {
     "id": 5,
     "name": "stockastic",
-    "image": "/default-project.png",
+    "image": "/project-stockastic.png",
     "description": "Practice repository for exploring advanced features",
     "tags": [
       "Jupyter Notebook",
@@ -77,7 +77,7 @@
   {
     "id": 6,
     "name": "fraud-detection-in-python",
-    "image": "/default-project.png",
+    "image": "/project-fraud-detection.png",
     "description": "Personal development project using industry best practices",
     "tags": [
       "Jupyter Notebook"
@@ -88,7 +88,7 @@
   {
     "id": 7,
     "name": "text-analysis-using-nlp-streamlit",
-    "image": "/default-project.png",
+    "image": "/project-nlp-streamlit.png",
     "description": "Portfolio project showcasing development capabilities",
     "tags": [
       "Python"
@@ -99,7 +99,7 @@
   {
     "id": 8,
     "name": "computer-vision-projects",
-    "image": "/default-project.png",
+    "image": "/project-computer-vision.png",
     "description": "Modern web application demonstrating clean code principles",
     "tags": [
       "Jupyter Notebook",
@@ -111,7 +111,7 @@
   {
     "id": 9,
     "name": "ai_soc",
-    "image": "/default-project.png",
+    "image": "/project-ai-soc.png",
     "description": "Hands-on learning experience with modern frameworks",
     "tags": [
       "Python",
@@ -128,7 +128,7 @@
   {
     "id": 10,
     "name": "goodreads_etl_pipeline",
-    "image": "/default-project.png",
+    "image": "/project-goodreads-etl.png",
     "description": "Interactive application built for continuous learning",
     "tags": [
       "Python"
@@ -139,7 +139,7 @@
   {
     "id": 11,
     "name": "creditcardfrauddetection-mlops",
-    "image": "/default-project.png",
+    "image": "/project-fraud-mlops.png",
     "description": "Interactive application built for continuous learning",
     "tags": [
       "Jupyter Notebook",
@@ -154,7 +154,7 @@
   {
     "id": 12,
     "name": "multi-agentic-rag",
-    "image": "/default-project.png",
+    "image": "/project-multi-agentic-rag.png",
     "description": "Interactive application built for continuous learning",
     "tags": [
       "Python"
@@ -165,7 +165,7 @@
   {
     "id": 13,
     "name": "multi-agent-conversation-for-disease-diagnosis",
-    "image": "/default-project.png",
+    "image": "/project-disease-diagnosis.png",
     "description": "Personal development project using industry best practices",
     "tags": [
       "Python",
@@ -177,7 +177,7 @@
   {
     "id": 14,
     "name": "langchain-rag-retrieval-augmented-generation-for-document-understanding",
-    "image": "/default-project.png",
+    "image": "/project-langchain-rag.png",
     "description": "Comprehensive project exploring software design patterns",
     "tags": [
       "Jupyter Notebook"
@@ -188,7 +188,7 @@
   {
     "id": 15,
     "name": "before-you-ask",
-    "image": "/default-project.png",
+    "image": "/project-before-you-ask.png",
     "description": "Proactive health intelligence platform",
     "tags": [
       "TypeScript",
@@ -199,18 +199,9 @@
     "demo": "https://github.com/satapathyPro/before-you-ask"
   },
   {
-    "id": 16,
-    "name": "contribution-history",
-    "image": "/default-project.png",
-    "description": "Generated GitHub contribution history",
-    "tags": [],
-    "source_code": "https://github.com/satapathyPro/contribution-history",
-    "demo": "https://github.com/satapathyPro/contribution-history"
-  },
-  {
     "id": 17,
     "name": "clover-payment-app",
-    "image": "/default-project.png",
+    "image": "/project-clover-payment.png",
     "description": "GitHub repository: clover-payment-app",
     "tags": [
       "JavaScript",
@@ -223,7 +214,7 @@
   {
     "id": 18,
     "name": "doctor-office-app",
-    "image": "/default-project.png",
+    "image": "/project-doctor-office.png",
     "description": "GitHub repository: doctor-office-app",
     "tags": [
       "JavaScript",
@@ -237,7 +228,7 @@
   {
     "id": 19,
     "name": "NixDemo",
-    "image": "/default-project.png",
+    "image": "/project-nix-demo.png",
     "description": "NixDemo - Built with Swift",
     "tags": [
       "Swift"
@@ -248,7 +239,7 @@
   {
     "id": 20,
     "name": "product-app",
-    "image": "/default-project.png",
+    "image": "/project-product-app.png",
     "description": "GitHub repository: product-app",
     "tags": [
       "HTML",
@@ -261,7 +252,7 @@
   {
     "id": 21,
     "name": "angular-management-page",
-    "image": "/default-project.png",
+    "image": "/project-angular-mgmt.png",
     "description": "GitHub repository: angular-management-page",
     "tags": [
       "HTML",
@@ -274,7 +265,7 @@
   {
     "id": 22,
     "name": "angular-project",
-    "image": "/default-project.png",
+    "image": "/project-angular.png",
     "description": "GitHub repository: angular-project",
     "tags": [],
     "source_code": "https://github.com/satapathyPro/angular-project",

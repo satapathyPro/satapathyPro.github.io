@@ -2,46 +2,73 @@
   background: var(--article-bg);
   display: flex;
   flex-direction: column;
-  border-radius: 20px;
+  border-radius: 16px;
   cursor: pointer;
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .card:hover {
-  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
+  transform: translateY(-4px);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.3);
+}
+
+.projectImage {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  object-position: center top;
+  display: block;
 }
 
 .content {
-  padding: 1rem;
-  border-radius: 0 0 20px 20px;
+  padding: 1rem 1.2rem 1.2rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.content h3 {
+  font-size: 0.9rem;
+  font-weight: 600;
+  line-height: 1.4;
 }
 
 .content p {
-  font-size: 0.8rem;
-  margin-top: 0.5rem;
+  font-size: 0.75rem;
+  margin-top: 0.4rem;
+  line-height: 1.5;
+  opacity: 0.8;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  flex: 1;
 }
 
 .tags {
   display: flex;
   flex-wrap: wrap;
-  margin: 0.5rem 0 1rem;
+  margin: 0.6rem 0 0.8rem;
+  gap: 0.35rem;
 }
 
 .tags span {
-  margin: 0.5rem 0.5rem 0 0;
-  padding: 0.2rem 0.5rem;
+  padding: 0.15rem 0.5rem;
   border-radius: 20px;
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   transition: all 0.2s;
 }
 
 .cta {
   display: flex;
   gap: 1rem;
+  margin-top: auto;
 }
 
 .underline {
   padding: 0.2rem 0;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   letter-spacing: 0;
   cursor: pointer;
   color: white;

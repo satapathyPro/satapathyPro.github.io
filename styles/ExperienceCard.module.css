@@ -1,25 +1,27 @@
-/* ExperienceCard.module.css */
-.iconSpan {
-    height: 100% !important;
-    width: 100% !important;
-    border-radius: 50%;
+.iconContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  padding: 6px;
+  border-radius: 50%;
+  overflow: hidden;
 }
 
-/* Ensure that the div wrapping the Image component fills its parent */
-.iconContainer {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
-    width: 100%;
+.iconSpan {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  object-position: center;
 }
-/* Media query for viewports wider than or equal to 1170px */
+
 .dateStyle {
-    color: #ffffff;  /* Default color */
-  }
+  color: #ffffff;
+}
+
 @media (max-width: 1169px) {
-    .dateStyle {
-      color: red;  /* Change color to red */
-    }
+  .dateStyle {
+    color: #cccccc;
   }
-  
+}

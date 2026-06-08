@@ -1,8 +1,6 @@
-const isProd = process.env.NODE_ENV === 'production';
-
 module.exports = {
-  basePath: isProd ? '/vscode-portfolio' : '',
-  assetPrefix: isProd ? '/vscode-portfolio/' : '',
+  basePath: '',
+  assetPrefix: '',
   images: {
     unoptimized: true,
     domains: [

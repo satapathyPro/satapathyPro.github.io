@@ -4,7 +4,7 @@ import { getAssetPath } from '../lib/utils';
 const ProjectCard = ({ project }) => {
   return (
     <div className={styles.card}>
-      <img src={getAssetPath(project.image)} height={300} width={600} alt={project.name} className={styles.projectImage} />
+      <img src={getAssetPath(project.image)} alt={project.name} className={styles.projectImage} />
       <div className={styles.content}>
         <h3>{project.name}</h3>
         <p>{project.description}</p>
