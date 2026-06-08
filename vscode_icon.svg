@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <mask id="m">
+    <rect width="100" height="100" fill="white"/>
+    <path d="M70.9 26.3L45 55.4 28.5 41.2 14 50l14.5 9L14 68l14.5 9 14.5-11.2L70.9 95l15.1-7V33zM73 41.5l-15 8.5 15 8.5z" fill="black"/>
+  </mask>
+  <rect width="100" height="100" rx="15" fill="#007ACC"/>
+  <path d="M70.9 26.3L45 55.4 28.5 41.2 14 50l14.5 9L14 68l14.5 9 14.5-11.2L70.9 95l15.1-7V33zM73 41.5l-15 8.5 15 8.5z" fill="white"/>
+</svg>
