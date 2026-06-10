@@ -22,9 +22,9 @@ const AboutPage = () => {
         <br/>
         <p><span style={{ color: '#2c9ffe' }}>&lt;p</span> <span style={{ color: 'lightskyblue' }}>class</span>=<span style={{ color: 'orange' }}>"interests"</span><span style={{ color: '#2c9ffe' }}>&gt;</span></p>
         <p style={{ marginLeft: '20px' }}>
-          My areas of interest include: {about.interests.join(', ')}.
-          I'm always excited to connect with like-minded professionals and collaborate on projects
-          that drive business value through data-driven insights.
+          Outside of shipping production systems, I'm drawn to {about.interests.slice(0, -1).join(', ')}, and {about.interests[about.interests.length - 1]}.
+          I'm always happy to connect with fellow engineers and collaborate on projects that turn
+          hard infrastructure and AI problems into real, measurable impact.
         </p>
         <p style={{ color: '#2c9ffe', textAlign: 'left' }}>{'</p>'}</p>
       </div>

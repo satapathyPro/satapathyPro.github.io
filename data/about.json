@@ -8,5 +8,10 @@
     "Experienced with Pytorch, Tensorflow, LangGraph",
     "Skilled in Apache Spark, Apache Iceberg, Batch Pipelines"
   ],
-  "interests": []
+  "interests": [
+    "distributed systems and large-scale data engineering",
+    "applied AI and LLM-driven agentic workflows",
+    "production observability and reliability engineering",
+    "open-source tooling and developer experience"
+  ]
 }

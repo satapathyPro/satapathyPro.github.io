@@ -9,7 +9,7 @@ const ThemeInfo = ({ icon, name, publisher, theme }) => {
 
   return (
     <div className={styles.container}>
-      <img src={getAssetPath(icon)} alt={name} height={100} width={100} />
+      <img src={getAssetPath(icon)} alt={name} className={styles.thumbnail} />
       <div className={styles.info}>
         <div>
           <h3>{name}</h3>
